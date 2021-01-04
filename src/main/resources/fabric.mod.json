@@ -19,7 +19,6 @@
     "server": []
   },
   "depends": {
-    "fabricloader": ">=0.9.2",
     "songsounds": "~4.0"
   },
   "custom": {
